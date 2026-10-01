@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it and link to the dataset page."
+title: "LEI Test Data"
+abstract: "Twenty-character LEIs with a correctly computed ISO 7064 MOD-97-10 check-digit pair. Synthetic entities; not registered organisations."
+type: dataset
+license: CC0-1.0
+version: "1.0.0"
+date-released: "2026-09-30"
+authors:
+  - name: "StanzaAPI"
+    website: "https://stanzaapi.com"
+repository-code: "https://github.com/StanzaAPI/lei-test-data"
+url: "https://stanzaapi.com/datasets/lei"
