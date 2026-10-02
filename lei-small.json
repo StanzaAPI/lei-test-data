@@ -1,0 +1,516 @@
+{
+  "name": "LEI Test Data",
+  "description": "Twenty-character LEIs with a correctly computed ISO 7064 MOD-97-10 check-digit pair. Synthetic entities; not registered organisations.",
+  "source": "https://stanzaapi.com/datasets/lei",
+  "license": "CC0-1.0",
+  "validity": "engine-validated",
+  "size": "small",
+  "count": 100,
+  "columns": [
+    "lei",
+    "lou_prefix",
+    "entity_id"
+  ],
+  "rows": [
+    {
+      "lei": "UVVN00IOPB7828972635",
+      "lou_prefix": "UVVN",
+      "entity_id": "IOPB78289726"
+    },
+    {
+      "lei": "IVRF00XAYW7558535345",
+      "lou_prefix": "IVRF",
+      "entity_id": "XAYW75585353"
+    },
+    {
+      "lei": "LUBD00RVNW2077394609",
+      "lou_prefix": "LUBD",
+      "entity_id": "RVNW20773946"
+    },
+    {
+      "lei": "NRGZ00VHZK1258779192",
+      "lou_prefix": "NRGZ",
+      "entity_id": "VHZK12587791"
+    },
+    {
+      "lei": "DBFD00AHFY6010570188",
+      "lou_prefix": "DBFD",
+      "entity_id": "AHFY60105701"
+    },
+    {
+      "lei": "RMQU00MBEI7940681969",
+      "lou_prefix": "RMQU",
+      "entity_id": "MBEI79406819"
+    },
+    {
+      "lei": "JYAW00KCCP1400343588",
+      "lou_prefix": "JYAW",
+      "entity_id": "KCCP14003435"
+    },
+    {
+      "lei": "CQDZ00SMIO9692304802",
+      "lou_prefix": "CQDZ",
+      "entity_id": "SMIO96923048"
+    },
+    {
+      "lei": "UJWQ00IVTX5861113727",
+      "lou_prefix": "UJWQ",
+      "entity_id": "IVTX58611137"
+    },
+    {
+      "lei": "FUBM00EEXW9163852274",
+      "lou_prefix": "FUBM",
+      "entity_id": "EEXW91638522"
+    },
+    {
+      "lei": "MERH00SOJN4645959140",
+      "lou_prefix": "MERH",
+      "entity_id": "SOJN46459591"
+    },
+    {
+      "lei": "VANC00BUPT3597680089",
+      "lou_prefix": "VANC",
+      "entity_id": "BUPT35976800"
+    },
+    {
+      "lei": "YYKH00BZOO5580204967",
+      "lou_prefix": "YYKH",
+      "entity_id": "BZOO55802049"
+    },
+    {
+      "lei": "QRRH00EYVY4366486660",
+      "lou_prefix": "QRRH",
+      "entity_id": "EYVY43664866"
+    },
+    {
+      "lei": "HYVR00OOHJ9454792552",
+      "lou_prefix": "HYVR",
+      "entity_id": "OOHJ94547925"
+    },
+    {
+      "lei": "USFY00PAXE9257164134",
+      "lou_prefix": "USFY",
+      "entity_id": "PAXE92571641"
+    },
+    {
+      "lei": "FUVO00BLPB9084063291",
+      "lou_prefix": "FUVO",
+      "entity_id": "BLPB90840632"
+    },
+    {
+      "lei": "GGOW00BSQY5519579976",
+      "lou_prefix": "GGOW",
+      "entity_id": "BSQY55195799"
+    },
+    {
+      "lei": "QIWH00PZSS9024736155",
+      "lou_prefix": "QIWH",
+      "entity_id": "PZSS90247361"
+    },
+    {
+      "lei": "AKMO00NOYT0337318628",
+      "lou_prefix": "AKMO",
+      "entity_id": "NOYT03373186"
+    },
+    {
+      "lei": "FKQO00GRAA6589614180",
+      "lou_prefix": "FKQO",
+      "entity_id": "GRAA65896141"
+    },
+    {
+      "lei": "WCGU00HXEM1211827555",
+      "lou_prefix": "WCGU",
+      "entity_id": "HXEM12118275"
+    },
+    {
+      "lei": "CDFS00AEKZ6559349050",
+      "lou_prefix": "CDFS",
+      "entity_id": "AEKZ65593490"
+    },
+    {
+      "lei": "BPTE00KIMA7290372962",
+      "lou_prefix": "BPTE",
+      "entity_id": "KIMA72903729"
+    },
+    {
+      "lei": "WXPD00PYUX1019762198",
+      "lou_prefix": "WXPD",
+      "entity_id": "PYUX10197621"
+    },
+    {
+      "lei": "VKEJ00OPIM8004521222",
+      "lou_prefix": "VKEJ",
+      "entity_id": "OPIM80045212"
+    },
+    {
+      "lei": "TBVA00HMRO1933274194",
+      "lou_prefix": "TBVA",
+      "entity_id": "HMRO19332741"
+    },
+    {
+      "lei": "OYRV00ULBH6933090409",
+      "lou_prefix": "OYRV",
+      "entity_id": "ULBH69330904"
+    },
+    {
+      "lei": "PKOD00NYEY3630775855",
+      "lou_prefix": "PKOD",
+      "entity_id": "NYEY36307758"
+    },
+    {
+      "lei": "EYLG00PIRW9757472684",
+      "lou_prefix": "EYLG",
+      "entity_id": "PIRW97574726"
+    },
+    {
+      "lei": "ESPN00WQFE3581145393",
+      "lou_prefix": "ESPN",
+      "entity_id": "WQFE35811453"
+    },
+    {
+      "lei": "FCEY00JWBN6162575368",
+      "lou_prefix": "FCEY",
+      "entity_id": "JWBN61625753"
+    },
+    {
+      "lei": "UAIW00BZGF4716854889",
+      "lou_prefix": "UAIW",
+      "entity_id": "BZGF47168548"
+    },
+    {
+      "lei": "AUQE00OSRM7790542750",
+      "lou_prefix": "AUQE",
+      "entity_id": "OSRM77905427"
+    },
+    {
+      "lei": "KQQP00GAWP9391636048",
+      "lou_prefix": "KQQP",
+      "entity_id": "GAWP93916360"
+    },
+    {
+      "lei": "QLFC00DEQM5407535930",
+      "lou_prefix": "QLFC",
+      "entity_id": "DEQM54075359"
+    },
+    {
+      "lei": "MHBU00QPUC6383753002",
+      "lou_prefix": "MHBU",
+      "entity_id": "QPUC63837530"
+    },
+    {
+      "lei": "AVFR00YUJG0679065248",
+      "lou_prefix": "AVFR",
+      "entity_id": "YUJG06790652"
+    },
+    {
+      "lei": "CCSO00QCCB3105702903",
+      "lou_prefix": "CCSO",
+      "entity_id": "QCCB31057029"
+    },
+    {
+      "lei": "FBIZ00LRIV6596931842",
+      "lou_prefix": "FBIZ",
+      "entity_id": "LRIV65969318"
+    },
+    {
+      "lei": "OCZX00ISGQ7760841962",
+      "lou_prefix": "OCZX",
+      "entity_id": "ISGQ77608419"
+    },
+    {
+      "lei": "QFWY00LVHG3075332141",
+      "lou_prefix": "QFWY",
+      "entity_id": "LVHG30753321"
+    },
+    {
+      "lei": "BQUX00LYIK8548690165",
+      "lou_prefix": "BQUX",
+      "entity_id": "LYIK85486901"
+    },
+    {
+      "lei": "DNYA00YEYQ3119308709",
+      "lou_prefix": "DNYA",
+      "entity_id": "YEYQ31193087"
+    },
+    {
+      "lei": "XPDH00JMIX4170940624",
+      "lou_prefix": "XPDH",
+      "entity_id": "JMIX41709406"
+    },
+    {
+      "lei": "GIVJ00YUQF6602453176",
+      "lou_prefix": "GIVJ",
+      "entity_id": "YUQF66024531"
+    },
+    {
+      "lei": "WMJE00XERA5782374828",
+      "lou_prefix": "WMJE",
+      "entity_id": "XERA57823748"
+    },
+    {
+      "lei": "PMKU00CKTE1524910195",
+      "lou_prefix": "PMKU",
+      "entity_id": "CKTE15249101"
+    },
+    {
+      "lei": "SQTE00IRIY6023727183",
+      "lou_prefix": "SQTE",
+      "entity_id": "IRIY60237271"
+    },
+    {
+      "lei": "JMDO00MAEK5170046424",
+      "lou_prefix": "JMDO",
+      "entity_id": "MAEK51700464"
+    },
+    {
+      "lei": "DRXB00JLTC2358682513",
+      "lou_prefix": "DRXB",
+      "entity_id": "JLTC23586825"
+    },
+    {
+      "lei": "GJUZ00PRYX8728942817",
+      "lou_prefix": "GJUZ",
+      "entity_id": "PRYX87289428"
+    },
+    {
+      "lei": "MATA00ZLLF9888679453",
+      "lou_prefix": "MATA",
+      "entity_id": "ZLLF98886794"
+    },
+    {
+      "lei": "ZZCB00VWZN4807038839",
+      "lou_prefix": "ZZCB",
+      "entity_id": "VWZN48070388"
+    },
+    {
+      "lei": "UWBM00WIEW3877041463",
+      "lou_prefix": "UWBM",
+      "entity_id": "WIEW38770414"
+    },
+    {
+      "lei": "QRSI00ZMUJ5685864676",
+      "lou_prefix": "QRSI",
+      "entity_id": "ZMUJ56858646"
+    },
+    {
+      "lei": "KHAQ00NYXP2211719641",
+      "lou_prefix": "KHAQ",
+      "entity_id": "NYXP22117196"
+    },
+    {
+      "lei": "DMFH00FMMI9021051909",
+      "lou_prefix": "DMFH",
+      "entity_id": "FMMI90210519"
+    },
+    {
+      "lei": "EVGM00RXPC8185185789",
+      "lou_prefix": "EVGM",
+      "entity_id": "RXPC81851857"
+    },
+    {
+      "lei": "JOZN00VUMO6768612507",
+      "lou_prefix": "JOZN",
+      "entity_id": "VUMO67686125"
+    },
+    {
+      "lei": "WESB00MNQC5440249983",
+      "lou_prefix": "WESB",
+      "entity_id": "MNQC54402499"
+    },
+    {
+      "lei": "KBHI00NZBW1373353696",
+      "lou_prefix": "KBHI",
+      "entity_id": "NZBW13733536"
+    },
+    {
+      "lei": "ZFFO00FFEB5663345945",
+      "lou_prefix": "ZFFO",
+      "entity_id": "FFEB56633459"
+    },
+    {
+      "lei": "SCYZ00MFQW1455661138",
+      "lou_prefix": "SCYZ",
+      "entity_id": "MFQW14556611"
+    },
+    {
+      "lei": "CMRF00DUYS5750804230",
+      "lou_prefix": "CMRF",
+      "entity_id": "DUYS57508042"
+    },
+    {
+      "lei": "NNDK00LENK9707452165",
+      "lou_prefix": "NNDK",
+      "entity_id": "LENK97074521"
+    },
+    {
+      "lei": "RWUR00LMIQ3263111014",
+      "lou_prefix": "RWUR",
+      "entity_id": "LMIQ32631110"
+    },
+    {
+      "lei": "OCJU00UDFQ5040534427",
+      "lou_prefix": "OCJU",
+      "entity_id": "UDFQ50405344"
+    },
+    {
+      "lei": "DBEV00ZZBW1323794607",
+      "lou_prefix": "DBEV",
+      "entity_id": "ZZBW13237946"
+    },
+    {
+      "lei": "YEUH00PLJA8994829933",
+      "lou_prefix": "YEUH",
+      "entity_id": "PLJA89948299"
+    },
+    {
+      "lei": "CXFR00MTQF3752131747",
+      "lou_prefix": "CXFR",
+      "entity_id": "MTQF37521317"
+    },
+    {
+      "lei": "TMTE00YVHD5174558966",
+      "lou_prefix": "TMTE",
+      "entity_id": "YVHD51745589"
+    },
+    {
+      "lei": "WONS00AJCY2107809524",
+      "lou_prefix": "WONS",
+      "entity_id": "AJCY21078095"
+    },
+    {
+      "lei": "DUHV00BBQK4536630675",
+      "lou_prefix": "DUHV",
+      "entity_id": "BBQK45366306"
+    },
+    {
+      "lei": "KBMQ00DOQX2569700563",
+      "lou_prefix": "KBMQ",
+      "entity_id": "DOQX25697005"
+    },
+    {
+      "lei": "WZSO00NLNF8616729204",
+      "lou_prefix": "WZSO",
+      "entity_id": "NLNF86167292"
+    },
+    {
+      "lei": "ZZWR00OZOW9156212684",
+      "lou_prefix": "ZZWR",
+      "entity_id": "OZOW91562126"
+    },
+    {
+      "lei": "CCBW00XWIS1676642282",
+      "lou_prefix": "CCBW",
+      "entity_id": "XWIS16766422"
+    },
+    {
+      "lei": "HYGR00PUZZ4749008523",
+      "lou_prefix": "HYGR",
+      "entity_id": "PUZZ47490085"
+    },
+    {
+      "lei": "YESB00JXLA4084176539",
+      "lou_prefix": "YESB",
+      "entity_id": "JXLA40841765"
+    },
+    {
+      "lei": "QCCQ00ATZO2066683781",
+      "lou_prefix": "QCCQ",
+      "entity_id": "ATZO20666837"
+    },
+    {
+      "lei": "GXOX00LSVA7211191228",
+      "lou_prefix": "GXOX",
+      "entity_id": "LSVA72111912"
+    },
+    {
+      "lei": "DERO00OXWU5646059114",
+      "lou_prefix": "DERO",
+      "entity_id": "OXWU56460591"
+    },
+    {
+      "lei": "GDKL00BGRI7065735023",
+      "lou_prefix": "GDKL",
+      "entity_id": "BGRI70657350"
+    },
+    {
+      "lei": "JAWX00MSGX6670117588",
+      "lou_prefix": "JAWX",
+      "entity_id": "MSGX66701175"
+    },
+    {
+      "lei": "GTSD00AFZT5282362096",
+      "lou_prefix": "GTSD",
+      "entity_id": "AFZT52823620"
+    },
+    {
+      "lei": "AHXR00TVHI1822026516",
+      "lou_prefix": "AHXR",
+      "entity_id": "TVHI18220265"
+    },
+    {
+      "lei": "VLGQ00CXCZ9386695879",
+      "lou_prefix": "VLGQ",
+      "entity_id": "CXCZ93866958"
+    },
+    {
+      "lei": "YKJH00CMYL5817067415",
+      "lou_prefix": "YKJH",
+      "entity_id": "CMYL58170674"
+    },
+    {
+      "lei": "PDJN00WHSQ7253139251",
+      "lou_prefix": "PDJN",
+      "entity_id": "WHSQ72531392"
+    },
+    {
+      "lei": "ZQZB00WYQF2597936102",
+      "lou_prefix": "ZQZB",
+      "entity_id": "WYQF25979361"
+    },
+    {
+      "lei": "KTPX00JTFK1015751514",
+      "lou_prefix": "KTPX",
+      "entity_id": "JTFK10157515"
+    },
+    {
+      "lei": "MKDN00YVPT9879570925",
+      "lou_prefix": "MKDN",
+      "entity_id": "YVPT98795709"
+    },
+    {
+      "lei": "TXLA00GIHN4720642531",
+      "lou_prefix": "TXLA",
+      "entity_id": "GIHN47206425"
+    },
+    {
+      "lei": "OBVD00MMIS2850578436",
+      "lou_prefix": "OBVD",
+      "entity_id": "MMIS28505784"
+    },
+    {
+      "lei": "UFVE00BUOP8485753212",
+      "lou_prefix": "UFVE",
+      "entity_id": "BUOP84857532"
+    },
+    {
+      "lei": "PNLN00ESWG3758291257",
+      "lou_prefix": "PNLN",
+      "entity_id": "ESWG37582912"
+    },
+    {
+      "lei": "DXCL00SWBP5985499340",
+      "lou_prefix": "DXCL",
+      "entity_id": "SWBP59854993"
+    },
+    {
+      "lei": "XBBM00OYNI1307304182",
+      "lou_prefix": "XBBM",
+      "entity_id": "OYNI13073041"
+    },
+    {
+      "lei": "VXZH00VKIS5346417832",
+      "lou_prefix": "VXZH",
+      "entity_id": "VKIS53464178"
+    }
+  ]
+}
